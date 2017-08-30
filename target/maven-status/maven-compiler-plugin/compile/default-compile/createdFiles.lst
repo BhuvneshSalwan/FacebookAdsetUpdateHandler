@@ -1,0 +1,7 @@
+com\hibernate\campaign\main\DBOperations.class
+com\google\bigquery\main\BQOperations.class
+com\hibernate\campaign\entities\FBCityCode.class
+com\facebook\adsets\main\App.class
+com\facebook\adset\common\AdsetUpdate.class
+com\hibernate\campaign\main\CreateSessionFactory.class
+com\google\bigquery\main\GAuthenticate.class
