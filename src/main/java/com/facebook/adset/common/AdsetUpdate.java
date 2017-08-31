@@ -185,7 +185,7 @@ public class AdsetUpdate {
 			
 			targeting.put("targeting_optimization", targeting_optimization);
 			targeting.put("publisher_platforms", new JSONArray(publisher_platforms));
-			targeting.put("device_platforms", device_platforms);
+			targeting.put("device_platforms", new JSONArray(device_platforms));
 
     //      	parameters.add(new BasicNameValuePair("billing_event","IMPRESSIONS"));
           	parameters.add(new BasicNameValuePair("name", adset_name));
